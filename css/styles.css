@@ -15,6 +15,10 @@ h1, p {
     text-align: center;
 }
 
+form {
+    margin: 0 auto;
+}
+
 label {
     display: block;
     margin: 0.5rem 0;         /* rem unit stands for root em, and is relative to the font size of the html element. */
