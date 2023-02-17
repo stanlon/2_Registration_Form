@@ -40,13 +40,13 @@ label {
 input, textarea, select {
     width: 100%;
     margin: 10px 0 0 0;
+    min-height: 2em;          /* This adjusts the height of the input fields */
 }
 
 input, textarea {
     background-color: #0a0a23;
     border: 1px solid #0a0a23;
     color: #ffffff;
-    min-height: 2em;          /* This adjusts the height of the input fields */
 }
 
 .inline {
