@@ -56,6 +56,10 @@ input, textarea {
     vertical-align: middle;
 }
 
+a {
+    color: #dfdfe2;
+}
+
 input[type="file"] {
     padding: 1px 2px;
 }
