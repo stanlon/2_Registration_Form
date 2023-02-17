@@ -22,6 +22,10 @@ form {
     width: 60vw;
 }
 
+fieldset {
+    padding: 2rem 0;
+}
+
 label {
     display: block;
     margin: 0.5rem 0;         /* rem unit stands for root em, and is relative to the font size of the html element. */
