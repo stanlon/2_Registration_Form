@@ -17,6 +17,7 @@ h1, p {
 
 form {
     margin: 0 auto;
+    max-width: 500px;
 }
 
 label {
